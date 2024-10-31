@@ -7,4 +7,4 @@
   console.log({ name });
 })();
 
-// con el signo "?" le indico que el argumento es opcional
+//! con el signo "?" le indico que el argumento es opcional
